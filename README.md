@@ -1,62 +1,94 @@
 # Hi, I'm Sathvik 👋
 
-🎓 B.Tech AI & Data Science @ KL University  
-💻 Passionate about AI, Computer Vision & Cloud  
-🚀 Building real-world projects in ML, DevOps & Data  
+### B.Tech AI & Data Science Student | DevOps & Cloud | Python | AI/ML
+
+🎓 B.Tech Artificial Intelligence & Data Science @ KL University  
+☁️ Interested in DevOps, Cloud Computing & Distributed Systems  
+🐍 Building projects with Python and modern cloud-native technologies  
+🤖 Exploring AI/ML and Computer Vision  
 
 ---
 
-## 🔧 Tech Stack
-- Python, Java  
-- PyTorch, OpenCV, Pandas, NumPy  
-- Machine Learning & Deep Learning  
-- Docker, Git, GitHub  
-- Tableau  
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+- SQL
+- Java
+
+### DevOps & Cloud
+- Docker
+- Kubernetes
+- Prometheus
+- Grafana
+- Git
+- GitHub
+- CI/CD
+
+### Backend & Databases
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- MySQL
+
+### AI / Machine Learning
+- PyTorch
+- NumPy
+- Pandas
+- Scikit-learn
+- OpenCV
+- YOLO
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🐾 WildVision – Animal Detection
-- Real-time object detection using YOLO  
-- Deployed on edge devices (Jetson Nano)  
+### 🔧 Deployment-Aware Multi-Metric Recovery Engine
+Kubernetes-based microservice resilience system focused on monitoring,
+fault injection, recovery decisions and independent recovery verification.
 
-### 📊 Customer Segmentation
-- KMeans clustering for customer insights  
-- Automated data pipeline  
-
-### 🎨 AI Image Processing
-- Photo restoration & background removal using OpenCV  
+**Tech:** Spring Boot · Docker · Kubernetes · Prometheus · Grafana ·
+Chaos Mesh · PostgreSQL
 
 ---
 
-## ☁️ Certifications
-- Oracle Cloud DevOps Professional  
-- Oracle Cloud Architect Associate  
+### ⚙️ Automated CI/CD Deployment Platform
+A DevOps project focused on automated testing, Docker image builds,
+continuous integration and Kubernetes deployment.
+
+**Tech:** GitHub Actions · Docker · Kubernetes · Python
 
 ---
 
-## 🌍 Achievements
-- Cambridge English Linguaskill (B2, C1 in Reading/Listening)  
-- AI Cybersecurity & Ethics (UCSI University)  
+### 🦁 WildVision — Real-Time Animal Detection
+YOLOv11-based multi-class animal detection system trained on a
+20-class dataset.
+
+**Tech:** Python · YOLOv11 · Ultralytics · OpenCV · NumPy
 
 ---
 
-## 📫 Contact
-- Email: 2300080088@kluniversity.in
-- GitHub: https://github.com/Sathvik-1123
+## 📚 Other Projects
 
-<!--
-**Sathvik-1123/Sathvik-1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐾 Pet Adoption System — Spring Boot, React, MySQL
+- 🖥️ CPU Scheduling Simulator
+- 📄 AI Resume Screening System
+- 📊 Customer Demographics Visualization — Tableau
+- 🧠 100 Days GPU Challenge
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications & Achievements
+
+- Oracle Cloud Infrastructure DevOps Professional
+- Oracle Cloud Infrastructure Architect Associate
+- Azure AI Fundamentals (AI-900)
+- Selected for Amazon ML Summer School 2025
+- Selected for TCS Digital — 2026
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [linkedin.com/in/m-sathvik](https://www.linkedin.com/in/m-sathvik)
+- GitHub: [github.com/Sathvik-1123](https://github.com/Sathvik-1123)
